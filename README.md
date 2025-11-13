@@ -24,10 +24,6 @@ A classic Tic-Tac-Toe game built using Core Java. This project runs in the termi
     ```bash
     java TicTacToe
     ```
-
-## 📸 Screenshot
-(You can add a screenshot of your game here later!)
-
 ## 🛠️ Technologies Used
 * Java (JDK)
 * Scanner Class (Input Handling)
